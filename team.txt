@@ -1,10 +1,19 @@
-==========================
-This file should list all of the team members, their github name, and
-a once sentance description of how they contributed to the project
+William Obeng 
+Github name:obengwilliam
+Contribution: Coding and presentation
 
-in a name, "github name, contribution" one per line
+Alexander Antwi
+Github name:nana4
+Contribution:Coding 
 
-for example
+Dzidzor Adogla-Bessa 
+Github name:dzidzor
+Contribution:Coding
 
-louis sobel, louissobel, wrote the instructions
-=========================
+Nii Boye Adjei
+Github name:Mensah
+Contribution:Coding 
+
+Nanabayin Menyah 
+Github name:mnanabayin
+Contribution:Coding and designing
